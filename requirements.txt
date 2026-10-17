@@ -1,0 +1,6 @@
+# Definimos o **Robot Framework** juntamente com a **SeleniumLibrary**
+# para controle do navegador e o **Pabot** para execução paralela de testes no futuro.
+
+robotframework>=6.1.1 
+robotframework-seleniumlibrary>=6.1.0 
+robotframework-pabot>=3.0.0
