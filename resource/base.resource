@@ -4,7 +4,7 @@ Documentation    Arquivo base com configurações globais,
 Library          SeleniumLibrary
 
 *** Variables ***
-${BROWSER}       headlesschrome
+${BROWSER}       chrome
 ${URL_BASE}      https://www.saucedemo.com
 
 *** Keywords ***
